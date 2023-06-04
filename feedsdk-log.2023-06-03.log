@@ -1,0 +1,5 @@
+21:01:39.210 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/.m2/repository/org/tonicsoft/ebay/ebaysdkcore/981.0.0/ebaysdkcore-981.0.0.jar!/com/ebay/sdk/eBaySvc.wsdl
+22:40:51.132 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/.m2/repository/org/tonicsoft/ebay/ebaysdkcore/981.0.0/ebaysdkcore-981.0.0.jar!/com/ebay/sdk/eBaySvc.wsdl
+22:50:20.647 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/.m2/repository/org/tonicsoft/ebay/ebaysdkcore/981.0.0/ebaysdkcore-981.0.0.jar!/com/ebay/sdk/eBaySvc.wsdl
+23:40:10.930 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/.m2/repository/io/github/linus87/ebaysdkcore/1131.1/ebaysdkcore-1131.1.jar!/eBaySvc.wsdl
+23:42:19.579 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/.m2/repository/io/github/linus87/ebaysdkcore/1131.1/ebaysdkcore-1131.1.jar!/eBaySvc.wsdl

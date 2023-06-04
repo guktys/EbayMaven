@@ -1,1 +1,11 @@
-00:06:43.466 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/.m2/repository/org/tonicsoft/ebay/ebaysdkcore/981.0.0/ebaysdkcore-981.0.0.jar!/com/ebay/sdk/eBaySvc.wsdl
+15:04:21.766 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/.m2/repository/io/github/linus87/ebaysdkcore/1131.1/ebaysdkcore-1131.1.jar!/eBaySvc.wsdl
+15:06:47.503 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/.m2/repository/io/github/linus87/ebaysdkcore/1131.1/ebaysdkcore-1131.1.jar!/eBaySvc.wsdl
+15:11:22.745 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/.m2/repository/io/github/linus87/ebaysdkcore/1131.1/ebaysdkcore-1131.1.jar!/eBaySvc.wsdl
+15:20:05.690 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/.m2/repository/io/github/linus87/ebaysdkcore/1131.1/ebaysdkcore-1131.1.jar!/eBaySvc.wsdl
+15:20:05.763 [main] ERROR com.ebay.sdk.ApiCall - java.lang.NullPointerException: Cannot invoke "com.ebay.soap.eBLBaseComponents.EBayAPIInterfaceService.getEBayAPI()" because "com.ebay.sdk.SdkAPIInterfaceServiceLocator.service" is null
+15:37:45.505 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/.m2/repository/io/github/linus87/ebaysdkcore/1131.1/ebaysdkcore-1131.1.jar!/eBaySvc.wsdl
+15:37:45.585 [main] ERROR com.ebay.sdk.ApiCall - java.lang.NullPointerException: Cannot invoke "com.ebay.soap.eBLBaseComponents.EBayAPIInterfaceService.getEBayAPI()" because "com.ebay.sdk.SdkAPIInterfaceServiceLocator.service" is null
+15:56:33.572 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/.m2/repository/io/github/linus87/ebaysdkcore/1131.1/ebaysdkcore-1131.1.jar!/eBaySvc.wsdl
+15:58:25.690 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/Downloads/ebaysdkjava1131/lib/ebaysdkcore.jar!/eBaySvc.wsdl
+16:03:28.753 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/Downloads/ebaysdkjava1131/lib/ebaysdkcore.jar!/eBaySvc.wsdl
+16:05:35.006 [main] INFO  c.e.s.SdkAPIInterfaceServiceLocator - loading wsdl : jar:file:/C:/Users/gukge/Downloads/ebaysdkjava1131/lib/ebaysdkcore.jar!/eBaySvc.wsdl

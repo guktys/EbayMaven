@@ -1,15 +1,12 @@
 package com.example.EbayMaven;
-import com.ebay.sdk.ApiContext;
-import com.ebay.sdk.ApiCredential;
-import com.ebay.sdk.call.GeteBayOfficialTimeCall;
-import com.ebay.sdk.helper.ConsoleUtil;
-import com.ebay.soap.eBLBaseComponents.SiteCodeType;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
 
 import java.io.IOException;
 import java.util.Calendar;
+
+import com.ebay.sdk.ApiContext;
+import com.ebay.sdk.ApiCredential;
+import com.ebay.sdk.helper.ConsoleUtil;
+import com.ebay.sdk.call.GeteBayOfficialTimeCall;
 
 /**
  * A Hello World-like sample,
